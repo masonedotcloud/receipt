@@ -1,0 +1,104 @@
+{
+    "prodotti": [
+        {
+            "nome": "Panino",
+            "descrizione": "Panino con wustel e patatine",
+            "prezzo": 1.50
+        },
+        {
+            "nome": "Pizza Margherita",
+            "descrizione": "Pizza con pomodoro, mozzarella e basilico",
+            "prezzo": 7.00
+        },
+        {
+            "nome": "Insalata Caesar",
+            "descrizione": "Insalata con pollo, crostini e salsa Caesar",
+            "prezzo": 5.50
+        },
+        {
+            "nome": "Spaghetti alla Carbonara",
+            "descrizione": "Spaghetti con uova, pancetta e pecorino",
+            "prezzo": 6.00
+        },
+        {
+            "nome": "Hamburger",
+            "descrizione": "Hamburger con carne, formaggio, lattuga e pomodoro",
+            "prezzo": 4.50
+        },
+        {
+            "nome": "Sushi assortito",
+            "descrizione": "Assortimento di sushi e sashimi",
+            "prezzo": 12.00
+        },
+        {
+            "nome": "Insalata Caprese",
+            "descrizione": "Insalata con pomodoro, mozzarella e basilico",
+            "prezzo": 4.00
+        },
+        {
+            "nome": "Caffè espresso",
+            "descrizione": "Caffè espresso italiano",
+            "prezzo": 1.20
+        },
+        {
+            "nome": "Torta al cioccolato",
+            "descrizione": "Torta al cioccolato con glassa",
+            "prezzo": 3.00
+        },
+        {
+            "nome": "Tè verde",
+            "descrizione": "Tè verde giapponese",
+            "prezzo": 1.00
+        },
+        {
+            "nome": "Hamburger vegetariano",
+            "descrizione": "Hamburger con burger vegetale e verdure",
+            "prezzo": 5.00
+        },
+        {
+            "nome": "Pasta al pesto",
+            "descrizione": "Pasta con pesto genovese",
+            "prezzo": 5.50
+        },
+        {
+            "nome": "Gelato alla vaniglia",
+            "descrizione": "Gelato artigianale alla vaniglia",
+            "prezzo": 2.50
+        },
+        {
+            "nome": "Bistecca alla griglia",
+            "descrizione": "Bistecca di manzo alla griglia",
+            "prezzo": 9.00
+        },
+        {
+            "nome": "Sushi vegetariano",
+            "descrizione": "Assortimento di sushi vegetariano",
+            "prezzo": 10.00
+        },
+        {
+            "nome": "Insalata mista",
+            "descrizione": "Insalata con varie verdure",
+            "prezzo": 3.00
+        },
+        {
+            "nome": "Coca-Cola",
+            "descrizione": "Bevanda gassata Coca-Cola",
+            "prezzo": 1.30
+        },
+        {
+            "nome": "Muffin al cioccolato",
+            "descrizione": "Muffin al cioccolato",
+            "prezzo": 2.00
+        },
+        {
+            "nome": "Tiramisù",
+            "descrizione": "Dolce italiano al caffè e mascarpone",
+            "prezzo": 4.50
+        },
+        {
+            "nome": "Salmone alla griglia",
+            "descrizione": "Salmone fresco alla griglia",
+            "prezzo": 8.00
+        }
+    ]
+}
